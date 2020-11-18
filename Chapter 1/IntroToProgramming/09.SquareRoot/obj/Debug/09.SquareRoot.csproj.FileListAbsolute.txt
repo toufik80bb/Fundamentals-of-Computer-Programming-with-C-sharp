@@ -1,0 +1,6 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\09.SquareRoot\bin\Debug\09.SquareRoot.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\09.SquareRoot\bin\Debug\09.SquareRoot.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\09.SquareRoot\bin\Debug\09.SquareRoot.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\09.SquareRoot\obj\Debug\09.SquareRoot.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\09.SquareRoot\obj\Debug\09.SquareRoot.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\09.SquareRoot\obj\Debug\09.SquareRoot.pdb

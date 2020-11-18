@@ -1,0 +1,7 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\06.PrintMyName\bin\Debug\06.PrintMyName.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\06.PrintMyName\bin\Debug\06.PrintMyName.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\06.PrintMyName\bin\Debug\06.PrintMyName.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\06.PrintMyName\obj\Debug\06.PrintMyName.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\06.PrintMyName\obj\Debug\06.PrintMyName.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\06.PrintMyName\obj\Debug\06.PrintMyName.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\06.PrintMyName\obj\Debug\06.PrintMyName.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\05.GoodDay\bin\Debug\05.GoodDay.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\05.GoodDay\bin\Debug\05.GoodDay.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\05.GoodDay\bin\Debug\05.GoodDay.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\05.GoodDay\obj\Debug\05.GoodDay.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\05.GoodDay\obj\Debug\05.GoodDay.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\05.GoodDay\obj\Debug\05.GoodDay.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\05.GoodDay\obj\Debug\05.GoodDay.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\10.PrintSequance\bin\Debug\10.PrintSequance.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\10.PrintSequance\bin\Debug\10.PrintSequance.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\10.PrintSequance\bin\Debug\10.PrintSequance.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\10.PrintSequance\obj\Debug\10.PrintSequance.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\10.PrintSequance\obj\Debug\10.PrintSequance.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\10.PrintSequance\obj\Debug\10.PrintSequance.pdb

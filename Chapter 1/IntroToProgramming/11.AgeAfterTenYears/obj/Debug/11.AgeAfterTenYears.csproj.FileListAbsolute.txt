@@ -1,0 +1,6 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\11.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\11.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\11.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\11.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\11.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\11.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.pdb

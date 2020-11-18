@@ -1,0 +1,6 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\08.PrintDateAndTime\obj\Debug\08.PrintDateAndTime.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\08.PrintDateAndTime\bin\Debug\08.PrintDateAndTime.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\08.PrintDateAndTime\bin\Debug\08.PrintDateAndTime.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\08.PrintDateAndTime\bin\Debug\08.PrintDateAndTime.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\08.PrintDateAndTime\obj\Debug\08.PrintDateAndTime.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\08.PrintDateAndTime\obj\Debug\08.PrintDateAndTime.pdb

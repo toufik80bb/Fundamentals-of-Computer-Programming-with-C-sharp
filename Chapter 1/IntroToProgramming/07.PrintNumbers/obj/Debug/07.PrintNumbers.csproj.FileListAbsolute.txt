@@ -1,0 +1,7 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\07.PrintNumbers\bin\Debug\07.PrintNumbers.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\07.PrintNumbers\bin\Debug\07.PrintNumbers.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\07.PrintNumbers\bin\Debug\07.PrintNumbers.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\07.PrintNumbers\obj\Debug\07.PrintNumbers.csprojAssemblyReference.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\07.PrintNumbers\obj\Debug\07.PrintNumbers.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\07.PrintNumbers\obj\Debug\07.PrintNumbers.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\07.PrintNumbers\obj\Debug\07.PrintNumbers.pdb

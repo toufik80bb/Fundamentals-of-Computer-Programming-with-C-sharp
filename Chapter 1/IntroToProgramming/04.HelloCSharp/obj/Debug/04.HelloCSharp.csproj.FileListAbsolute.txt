@@ -1,0 +1,7 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojAssemblyReference.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 1\IntroToProgramming\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
