@@ -1,0 +1,7 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\02.AssigneToVariables\obj\Debug\02.AssigneToVariables.csprojAssemblyReference.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\02.AssigneToVariables\obj\Debug\02.AssigneToVariables.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\02.AssigneToVariables\bin\Debug\02.AssigneToVariables.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\02.AssigneToVariables\bin\Debug\02.AssigneToVariables.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\02.AssigneToVariables\bin\Debug\02.AssigneToVariables.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\02.AssigneToVariables\obj\Debug\02.AssigneToVariables.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\02.AssigneToVariables\obj\Debug\02.AssigneToVariables.pdb

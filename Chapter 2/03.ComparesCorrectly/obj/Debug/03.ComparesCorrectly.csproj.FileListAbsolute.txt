@@ -1,0 +1,7 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\03.ComparesCorrectly\bin\Debug\03.ComparesCorrectly.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\03.ComparesCorrectly\bin\Debug\03.ComparesCorrectly.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\03.ComparesCorrectly\bin\Debug\03.ComparesCorrectly.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\03.ComparesCorrectly\obj\Debug\03.ComparesCorrectly.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\03.ComparesCorrectly\obj\Debug\03.ComparesCorrectly.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\03.ComparesCorrectly\obj\Debug\03.ComparesCorrectly.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\03.ComparesCorrectly\obj\Debug\03.ComparesCorrectly.csprojAssemblyReference.cache

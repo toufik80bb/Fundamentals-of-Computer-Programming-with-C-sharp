@@ -1,0 +1,7 @@
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\01.DeclareVariables.cs\obj\Debug\01.DeclareVariables.csprojAssemblyReference.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\01.DeclareVariables.cs\obj\Debug\01.DeclareVariables.csproj.CoreCompileInputs.cache
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\01.DeclareVariables.cs\bin\Debug\01.DeclareVariables.cs.exe.config
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\01.DeclareVariables.cs\bin\Debug\01.DeclareVariables.cs.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\01.DeclareVariables.cs\bin\Debug\01.DeclareVariables.cs.pdb
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\01.DeclareVariables.cs\obj\Debug\01.DeclareVariables.cs.exe
+C:\My Github projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\01.DeclareVariables.cs\obj\Debug\01.DeclareVariables.cs.pdb
