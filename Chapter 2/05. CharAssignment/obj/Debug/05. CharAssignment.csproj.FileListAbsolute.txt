@@ -1,0 +1,7 @@
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\05. CharAssignment\bin\Debug\_05.CharAssignment.exe.config
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\05. CharAssignment\bin\Debug\_05.CharAssignment.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\05. CharAssignment\bin\Debug\_05.CharAssignment.pdb
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\05. CharAssignment\obj\Debug\05. CharAssignment.csprojAssemblyReference.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\05. CharAssignment\obj\Debug\05. CharAssignment.csproj.CoreCompileInputs.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\05. CharAssignment\obj\Debug\_05.CharAssignment.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\05. CharAssignment\obj\Debug\_05.CharAssignment.pdb
