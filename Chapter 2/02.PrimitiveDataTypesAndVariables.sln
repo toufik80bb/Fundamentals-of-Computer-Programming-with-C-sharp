@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AssigneToVariables", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ComparesCorrectly", "03.ComparesCorrectly\03.ComparesCorrectly.csproj", "{257C9D40-D344-4124-8AC6-75BDC08E1AC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. HexAssignment", "04. HexAssignment\04. HexAssignment.csproj", "{0DC4D4BF-0E88-4DE5-851F-97AB10990306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{257C9D40-D344-4124-8AC6-75BDC08E1AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257C9D40-D344-4124-8AC6-75BDC08E1AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257C9D40-D344-4124-8AC6-75BDC08E1AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC4D4BF-0E88-4DE5-851F-97AB10990306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC4D4BF-0E88-4DE5-851F-97AB10990306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC4D4BF-0E88-4DE5-851F-97AB10990306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC4D4BF-0E88-4DE5-851F-97AB10990306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

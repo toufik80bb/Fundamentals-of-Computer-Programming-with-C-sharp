@@ -1,0 +1,7 @@
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\04. HexAssignment\bin\Debug\_04.HexAssignment.exe.config
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\04. HexAssignment\bin\Debug\_04.HexAssignment.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\04. HexAssignment\bin\Debug\_04.HexAssignment.pdb
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\04. HexAssignment\obj\Debug\04. HexAssignment.csprojAssemblyReference.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\04. HexAssignment\obj\Debug\04. HexAssignment.csproj.CoreCompileInputs.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\04. HexAssignment\obj\Debug\_04.HexAssignment.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\04. HexAssignment\obj\Debug\_04.HexAssignment.pdb
