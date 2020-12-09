@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. CharAssignment", "05. C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. BoolAssignment", "06. BoolAssignment\06. BoolAssignment.csproj", "{A668C019-359B-4375-82F4-93D1E1F63A4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.HelloWorld", "07.HelloWorld\07.HelloWorld.csproj", "{60B2817F-6289-41CD-AAEB-734553D42D65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A668C019-359B-4375-82F4-93D1E1F63A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A668C019-359B-4375-82F4-93D1E1F63A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A668C019-359B-4375-82F4-93D1E1F63A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B2817F-6289-41CD-AAEB-734553D42D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B2817F-6289-41CD-AAEB-734553D42D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B2817F-6289-41CD-AAEB-734553D42D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B2817F-6289-41CD-AAEB-734553D42D65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
