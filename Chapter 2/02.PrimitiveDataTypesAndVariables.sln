@@ -15,9 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. CharAssignment", "05. C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. BoolAssignment", "06. BoolAssignment\06. BoolAssignment.csproj", "{A668C019-359B-4375-82F4-93D1E1F63A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.AssaignStringToObject", "07.HelloWorld\07.AssaignStringToObject.csproj", "{60B2817F-6289-41CD-AAEB-734553D42D65}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.AssaignStringToObject", "07.AssaignStringToObject\07.AssaignStringToObject.csproj", "{60B2817F-6289-41CD-AAEB-734553D42D65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AssaignStringToObjectAndViseversa", "07.AssaignStringToObjectAndViseversa\08.AssaignStringToObjectAndViseversa.csproj", "{276B36FA-CEB9-494F-9750-90FC79D460FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AssaignStringToObjectAndViseversa", "08.AssaignStringToObjectAndViseversa\08.AssaignStringToObjectAndViseversa.csproj", "{276B36FA-CEB9-494F-9750-90FC79D460FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
