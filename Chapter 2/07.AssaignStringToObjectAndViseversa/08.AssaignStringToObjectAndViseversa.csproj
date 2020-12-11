@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{60B2817F-6289-41CD-AAEB-734553D42D65}</ProjectGuid>
+    <ProjectGuid>{276B36FA-CEB9-494F-9750-90FC79D460FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07.HelloWorld</RootNamespace>
-    <AssemblyName>07.HelloWorld</AssemblyName>
+    <RootNamespace>_07.AssaignStringToObjectAndViseversa</RootNamespace>
+    <AssemblyName>07.AssaignStringToObjectAndViseversa</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelloWorld.cs" />
+    <Compile Include="AssaignStringToObjectAndViseversa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,7 +1,0 @@
-C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\07.HelloWorld\bin\Debug\07.HelloWorld.exe.config
-C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\07.HelloWorld\bin\Debug\07.HelloWorld.exe
-C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\07.HelloWorld\bin\Debug\07.HelloWorld.pdb
-C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\07.HelloWorld\obj\Debug\07.HelloWorld.csprojAssemblyReference.cache
-C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\07.HelloWorld\obj\Debug\07.HelloWorld.csproj.CoreCompileInputs.cache
-C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\07.HelloWorld\obj\Debug\07.HelloWorld.exe
-C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\07.HelloWorld\obj\Debug\07.HelloWorld.pdb
