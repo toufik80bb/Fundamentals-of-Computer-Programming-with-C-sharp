@@ -1,0 +1,7 @@
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\09.QuotedStrings\bin\Debug\09.QuotedStrings.exe.config
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\09.QuotedStrings\bin\Debug\09.QuotedStrings.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\09.QuotedStrings\bin\Debug\09.QuotedStrings.pdb
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\09.QuotedStrings\obj\Debug\09.QuotedStrings.csprojAssemblyReference.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\09.QuotedStrings\obj\Debug\09.QuotedStrings.csproj.CoreCompileInputs.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\09.QuotedStrings\obj\Debug\09.QuotedStrings.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\09.QuotedStrings\obj\Debug\09.QuotedStrings.pdb
