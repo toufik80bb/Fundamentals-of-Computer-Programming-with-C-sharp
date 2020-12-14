@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AssaignStringToObjectAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.QuotedStrings", "09.QuotedStrings\09.QuotedStrings.csproj", "{615039D6-9C62-4BF4-B88A-C7D673393CAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HeartFigure", "10.HeartFigure\10.HeartFigure.csproj", "{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{615039D6-9C62-4BF4-B88A-C7D673393CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{615039D6-9C62-4BF4-B88A-C7D673393CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{615039D6-9C62-4BF4-B88A-C7D673393CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
