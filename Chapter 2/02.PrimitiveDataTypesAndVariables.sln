@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.QuotedStrings", "09.Quot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HeartFigure", "10.HeartFigure\10.HeartFigure.csproj", "{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.CopyrightTriangle", "11.CopyrightTriangle\11.CopyrightTriangle.csproj", "{FBBEE1C9-CE9B-4DF6-A304-342FB2D926C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F0579AD-7F0D-4CEE-B8E8-E28B6D74F78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBEE1C9-CE9B-4DF6-A304-342FB2D926C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBEE1C9-CE9B-4DF6-A304-342FB2D926C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBEE1C9-CE9B-4DF6-A304-342FB2D926C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBEE1C9-CE9B-4DF6-A304-342FB2D926C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
