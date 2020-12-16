@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.CopyrightTriangle", "11.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.MarketingFirmEmployees", "12.MarketingFirmEmployees\12.MarketingFirmEmployees.csproj", "{26A77602-C7A1-45A6-B882-ADC23F157893}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ValueExchange", "13.ValueExchange\13.ValueExchange.csproj", "{8D692E75-2984-4408-A138-FD13F871B6D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{26A77602-C7A1-45A6-B882-ADC23F157893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26A77602-C7A1-45A6-B882-ADC23F157893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26A77602-C7A1-45A6-B882-ADC23F157893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D692E75-2984-4408-A138-FD13F871B6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D692E75-2984-4408-A138-FD13F871B6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D692E75-2984-4408-A138-FD13F871B6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D692E75-2984-4408-A138-FD13F871B6D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

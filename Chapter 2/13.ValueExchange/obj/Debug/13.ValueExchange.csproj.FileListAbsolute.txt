@@ -1,0 +1,7 @@
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\13.ValueExchange\bin\Debug\13.ValueExchange.exe.config
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\13.ValueExchange\bin\Debug\13.ValueExchange.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\13.ValueExchange\bin\Debug\13.ValueExchange.pdb
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\13.ValueExchange\obj\Debug\13.ValueExchange.csprojAssemblyReference.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\13.ValueExchange\obj\Debug\13.ValueExchange.csproj.CoreCompileInputs.cache
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\13.ValueExchange\obj\Debug\13.ValueExchange.exe
+C:\GIT Projects\Fundamentals-of-Computer-Programming-with-C-sharp\Chapter 2\13.ValueExchange\obj\Debug\13.ValueExchange.pdb
